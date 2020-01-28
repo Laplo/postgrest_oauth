@@ -31,7 +31,7 @@
     
     C. Set the value you want for the claim
     
-**4. Set up your postgrest.conf file** _( don't forget to escape your jwk )_ 
+**4. Set up your [postgrest.conf](./postgrest.conf) file** _( don't forget to escape your jwk )_ 
 
   Keycloak example :
   
